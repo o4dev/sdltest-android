@@ -6,9 +6,7 @@ Yuioppe's sdltest ported to android!
 https://github.com/Yuioppe/sdltest
 
 
-To build
-========
-========
+## To build
 
 ### Using `make`
 Ensure ant and adb is installed.
