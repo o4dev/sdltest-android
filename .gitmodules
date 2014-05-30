@@ -1,6 +1,6 @@
 [submodule "jni/SDL"]
 	path = jni/SDL
-	url = git@github.com:spurious/SDL-mirror.git
+	url = https://github.com:spurious/SDL-mirror.git
 [submodule "jni/src"]
 	path = jni/src
 	url = https://github.com/o4dev/sdltest
