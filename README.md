@@ -5,6 +5,8 @@ Yuioppe's sdltest ported to android!
 
 https://github.com/Yuioppe/sdltest
 
+*ENSURE YOU CLONE RECURSIVELY (--recursive)*
+
 
 ## To build
 
