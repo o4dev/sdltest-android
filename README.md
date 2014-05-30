@@ -35,3 +35,7 @@ and build/run.
 (You may need to compile with `ndk-build` first)
 
 
+### Google-fu
+
+If you run into any additional errors or i have just
+not gave you enough detail google is your best friend.
