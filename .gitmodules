@@ -4,3 +4,6 @@
 [submodule "jni/src"]
 	path = jni/src
 	url = git@github.com:o4dev/sdltest-android.git
+[submodule ".tools/ndk"]
+	path = .tools/ndk
+	url = https://android.googlesource.com/platform/ndk
