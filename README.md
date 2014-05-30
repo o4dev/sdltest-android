@@ -10,7 +10,7 @@ https://github.com/Yuioppe/sdltest
 
 ### Using `make`
 Ensure ant and adb is installed.
-Then just run `make`.
+Then just run `make` at the root of this repo.
 
 
 ### Using adt Eclipse
